@@ -16,3 +16,6 @@ myresult = mycursor.fetchall()
 for x in myresult:
   print(x)
 new line needs to be added
+for x in myresult:
+  print(x)
+new line needs to be added
